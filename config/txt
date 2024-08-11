@@ -1,0 +1,2 @@
+Mongoose is an object model design schema for our entities like contacts or user
+and it helps to communicate with the mongodb database
